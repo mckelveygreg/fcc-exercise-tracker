@@ -1,2 +1,5 @@
-# fcc-exercise-tracker
-FreeCodeCamp Node/Express/MongoDB Exercise Log
+# Exercise Tracker REST API
+
+#### A microservice project, part of Free Code Camp's curriculum
+
+
